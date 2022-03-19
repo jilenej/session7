@@ -1,3 +1,9 @@
+<em><strong>BEFORE IMAGE</em></strong>
+
+<img width="1424" alt="FIT Front End Developement HW Session 7 Webpage Before Image" src="https://user-images.githubusercontent.com/60355411/159139660-52044d22-8794-41ba-b4dd-87a30ff93234.png">
+
+<em><strong>AFTER IMAGE</em></strong>
+
 <img width="1427" alt="FIT Front End Developement HW Session 7 Webpage Final" src="https://user-images.githubusercontent.com/60355411/159139279-d396a3e0-0981-46ce-9dba-bad5246c9c4f.png">
 
 <strong>Assignment 9 : Github & AWS S3 Bucket</strong>
